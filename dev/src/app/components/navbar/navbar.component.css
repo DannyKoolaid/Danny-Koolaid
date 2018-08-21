@@ -1,0 +1,26 @@
+nav {
+    background-color: #333A41;
+    text-align: center;
+}
+
+nav a.btn {
+    color: #EEE;
+    width: 100px;
+    margin-top: -32px;
+}
+
+nav a.logo {
+    margin: 0px 25px;
+    font-family: 'Pacifico', cursive;
+    color: #999;
+    font-size: 4em;
+}
+
+nav a:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+nav a.logo:hover {
+    color: green;
+}
