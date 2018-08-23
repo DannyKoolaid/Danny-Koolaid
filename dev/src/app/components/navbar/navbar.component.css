@@ -19,6 +19,7 @@ nav a.logo {
 nav a:hover {
     opacity: 0.5;
     cursor: pointer;
+    text-decoration: none;
 }
 
 nav a.logo:hover {
