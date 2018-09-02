@@ -1,9 +1,19 @@
 div.header {
     background: rgb(160, 156, 97);
+    padding: 2em;
+}
+
+div.img.resume-1 {
     padding: 1em;
 }
 
 div.ending {
     background: rgb(160, 152, 82);
-    padding: 1em;
+    padding: 2em;
+}
+
+div.body-text {
+    padding: 0.25em;
+    font-family: 'Oxygen', serif;
+    font-size: 115%;
 }
